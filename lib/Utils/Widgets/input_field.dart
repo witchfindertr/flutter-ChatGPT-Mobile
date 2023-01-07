@@ -18,20 +18,36 @@ class MyTextField extends StatelessWidget {
       controller: controller,
       textCapitalization: TextCapitalization.sentences,
       style: GoogleFonts.notoSerif(color: Colors.black),
-      decoration: const InputDecoration(
+      decoration: InputDecoration(
         fillColor: KBotBackgroundColor,
         filled: true,
-        border: InputBorder.none,
-        focusedBorder: InputBorder.none,
+        border: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(18),
+        ),
+        focusedBorder:
+            OutlineInputBorder(borderRadius: BorderRadius.circular(18)),
         enabledBorder: InputBorder.none,
-        errorBorder: InputBorder.none,
-        disabledBorder: InputBorder.none,
-        focusColor: Colors.black,
-        labelStyle: TextStyle(
+        //errorBorder: InputBorder.none,
+        //disabledBorder: InputBorder.none,
+        //focusColor: Colors.black,
+        labelStyle: const TextStyle(
           color: Colors.black,
         ),
+        prefixIcon: const Icon(
+          Icons.chat_sharp,
+          color: Colors.black,
+        ),
+        suffixIcon: IconButton(
+          onPressed: () {
+            controller.clear();
+          },
+          icon: const Icon(
+            Icons.format_clear,
+            color: Colors.black,
+          ),
+        ),
         hintText: 'Start Typing...',
-        hintStyle: TextStyle(
+        hintStyle: const TextStyle(
           color: Colors.black,
         ),
       ),
