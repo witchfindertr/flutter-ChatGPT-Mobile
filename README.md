@@ -1,16 +1,32 @@
-# chatgpt
+# ChatGPT III - Flutter
 
-A new Flutter project.
+ChatGPT incorporated 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Results
+<p>
+<img src="https://raw.githubusercontent.com/Vishwa-Karthik/ChatGPT-Mobile/master/Results/4.jpg?token=GHSAT0AAAAAAB4F4MPRBR4NQR45OJXKZSPWY5ZSGCA" width=200 height=400 />
+&nbsp; &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/Vishwa-Karthik/ChatGPT-Mobile/master/Results/1.jpg?token=GHSAT0AAAAAAB4F4MPQMNTZVZKYX3UQWUUSY5ZSCCQ" width=200 height=400 />
+</p>
+&nbsp;
+<p>
+<img src="https://raw.githubusercontent.com/Vishwa-Karthik/ChatGPT-Mobile/master/Results/2.jpg?token=GHSAT0AAAAAAB4F4MPR2W235P7L3O3PD4XEY5ZSGZA" width=200 height=400 />
+&nbsp; &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/Vishwa-Karthik/ChatGPT-Mobile/master/Results/3.jpg?token=GHSAT0AAAAAAB4F4MPQYZ4BQK3YZJKYR3PYY5ZSGXQ" width=200 height=400 />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## References
+1.google_fonts <br>
+2.google_nav_bar <br>
+3.avatar_glow <br>
+4.flutter_dotenv <br>
+5.speech_to_text <br>
+6.http <br>
+7.flutter_launcher_icons
