@@ -10,15 +10,15 @@ flutter pub get
 
 ## Results
 <p>
-<img src="https://raw.githubusercontent.com/Vishwa-Karthik/ChatGPT-Mobile/master/Results/4.jpg?token=GHSAT0AAAAAAB4F4MPRBR4NQR45OJXKZSPWY5ZSGCA" width=200 height=400 />
+<img src="./Results/1.jpg" width=200 height=400 />
 &nbsp; &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/Vishwa-Karthik/ChatGPT-Mobile/master/Results/1.jpg?token=GHSAT0AAAAAAB4F4MPQMNTZVZKYX3UQWUUSY5ZSCCQ" width=200 height=400 />
+<img src="./Results/2.jpg" width=200 height=400 />
 </p>
 &nbsp;
 <p>
-<img src="https://raw.githubusercontent.com/Vishwa-Karthik/ChatGPT-Mobile/master/Results/2.jpg?token=GHSAT0AAAAAAB4F4MPR2W235P7L3O3PD4XEY5ZSGZA" width=200 height=400 />
+<img src="./Results/3.jpg" width=200 height=400 />
 &nbsp; &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/Vishwa-Karthik/ChatGPT-Mobile/master/Results/3.jpg?token=GHSAT0AAAAAAB4F4MPQYZ4BQK3YZJKYR3PYY5ZSGXQ" width=200 height=400 />
+<img src="./Results/4.jpg" width=200 height=400 />
 </p>
 
 
